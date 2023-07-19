@@ -9,7 +9,7 @@
 ## About Me:
 
 - 👨🏽‍💻 Currently working as a Full Stack Developer at <a href="https://www.scalian-spain.es/">Scalian</a>.
-- 🌱 I am currently learning and improving full-stack development.
+- 🌱 Learning and improving in Full-Stack Development.
 - 💬 Don't hesitate to ask me!
 - 📩 Contact me at romandelcerro.dev@gmail.com!
 
